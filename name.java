@@ -7,7 +7,7 @@ int a=153;
 		 r= a%10;
 		 a= a/10;
 		 sum=sum+r*r*r;
-		  }
+		  
 		 if(n==sum) {
 				  System.out.println("armstrong number");
 			  }else {
